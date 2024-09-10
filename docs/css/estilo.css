@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.alinha{
+    margin: 0 auto;
+    width: 70%;
+    background-color: blueviolet;
+    padding: 3%;
+    border-style: solid;
+}
